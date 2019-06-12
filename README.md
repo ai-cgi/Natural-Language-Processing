@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-Natural Language Processing mit Google Bert - Hands on Example
+Natural Language Processing mit Java - Hands on Example
